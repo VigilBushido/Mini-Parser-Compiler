@@ -1,0 +1,5 @@
+begin
+B = A + C;
+A = B;
+C = A - B + C - A
+end
