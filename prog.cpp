@@ -2,7 +2,7 @@
 Sergio Munguia 
 
 
-Mini Parser -  Parser Project
+Mini Compiler -  Parser Project
 Lexical and Syntax Analyzers
 
 
