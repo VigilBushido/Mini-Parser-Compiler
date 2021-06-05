@@ -1,1 +1,1 @@
-# Mini-Parser-Compiler
+# Mini-Compiler/Parser
